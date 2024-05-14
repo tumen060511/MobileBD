@@ -1,0 +1,5 @@
+package com.example.cardgametest1
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
